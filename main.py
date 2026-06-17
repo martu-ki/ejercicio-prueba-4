@@ -25,6 +25,8 @@ while opcion != 6:
         print("La opcion debe de ser numerica")
         continue
 
+
+
     if opcion == 1:
         registrar_taller(talleres)
     elif opcion == 2:
